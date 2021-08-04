@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Indy.Core", "Indy.Core\Indy.Core.fsproj", "{DC069C4A-B0DE-431B-BC8A-0EDC1FC216BE}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Indy.App", "Indy.App\Indy.App.fsproj", "{CA174A24-355C-41D3-B3D6-94F5DE9820B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC069C4A-B0DE-431B-BC8A-0EDC1FC216BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC069C4A-B0DE-431B-BC8A-0EDC1FC216BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC069C4A-B0DE-431B-BC8A-0EDC1FC216BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC069C4A-B0DE-431B-BC8A-0EDC1FC216BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA174A24-355C-41D3-B3D6-94F5DE9820B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA174A24-355C-41D3-B3D6-94F5DE9820B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA174A24-355C-41D3-B3D6-94F5DE9820B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA174A24-355C-41D3-B3D6-94F5DE9820B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
